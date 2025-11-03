@@ -1,5 +1,8 @@
 # UI-UX-Experiment3
 
+###### NAME : RAKSHITHA J
+###### REG NO : 212223240135
+
 ## Aim:
 To apply Heuristic Evaluation of an Existing Website or App
 ## Algorithm:
